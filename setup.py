@@ -24,6 +24,6 @@ setup(name    		= 'robotframework-browsermoblibrary',
 		"Topic :: Software Development :: Testing"
 	  ],
 	  install_requires = [
-	  	'browsermob-proxy-py >= 0.7.0'
+	  	'browsermob-proxy >= 0.7.0'
 	  ],
 	  packages		   = ['BrowserMobLibrary']
